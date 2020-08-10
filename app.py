@@ -46,4 +46,4 @@ def uploaded_file(filename):
 
 
 if __name__ == '__main___':
-    app.run(debug=True)
+    app.run()
