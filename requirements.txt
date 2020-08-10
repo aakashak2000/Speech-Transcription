@@ -5,5 +5,5 @@ SpeechRecognition==3.8.1
 Werkzeug==1.0.0
 pandas==1.0.1
 scipy==1.4.1
-ipython==7.17.0
+ipython==7.16.1
 pyAudioAnalysis==0.3.5
